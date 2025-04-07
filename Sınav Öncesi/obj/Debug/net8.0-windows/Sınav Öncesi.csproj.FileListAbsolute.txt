@@ -1,0 +1,34 @@
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.exe
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.deps.json
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.runtimeconfig.json
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.dll
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.pdb
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav_Öncesi.Form1.resources
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav_Öncesi.Properties.Resources.resources
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.csproj.GenerateResource.cache
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.AssemblyInfoInputs.cache
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.AssemblyInfo.cs
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.csproj.CoreCompileInputs.cache
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.dll
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\refint\Sınav Öncesi.dll
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.pdb
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.genruntimeconfig.cache
+C:\Users\z0048aur\Desktop\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\ref\Sınav Öncesi.dll
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.exe
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.deps.json
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.runtimeconfig.json
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.dll
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\bin\Debug\net8.0-windows\Sınav Öncesi.pdb
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav_Öncesi.Form1.resources
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav_Öncesi.Properties.Resources.resources
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.csproj.GenerateResource.cache
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.AssemblyInfoInputs.cache
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.AssemblyInfo.cs
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.csproj.CoreCompileInputs.cache
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.dll
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\refint\Sınav Öncesi.dll
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.pdb
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\Sınav Öncesi.genruntimeconfig.cache
+C:\Users\z0048aur\Desktop\Dosyalar\Visual Programming\Sınav Öncesi\Sınav Öncesi\obj\Debug\net8.0-windows\ref\Sınav Öncesi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sınav Öncesi/1.0.0": {
+        "runtime": {
+          "Sınav Öncesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sınav Öncesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
